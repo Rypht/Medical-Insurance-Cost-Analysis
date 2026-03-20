@@ -1,12 +1,12 @@
-Medical Insurance Cost Analysis Dashboard
-
-🎯 Objective
+Objectives:
 
 To analyse how demographic and health factors impact insurance charges and identify high-risk individuals.
 
 Dataset includes:
 1,338 records
 Features include: age, BMI, smoking status, children, region
+
+<img width="1309" height="737" alt="image" src="https://github.com/user-attachments/assets/8aa28933-cfe8-40f9-bfdd-b5e17118682c" />
 
 
 *Key Insights
